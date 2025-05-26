@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // Create User objects
+     /*  // Create User objects
         User user1 = new User("user1", "password1");
         User user2 = new User("user2", "password2");
 
@@ -36,7 +36,7 @@ public class Main {
 
         // Create Luggage objects
         Luggage luggage1 = new Luggage("LUG001", LuggageStatus.LOST);
-        Luggage luggage2 = new Luggage("LUG002", LuggageStatus.FOUND);
+        Luggage luggage2 = new Luggage("LUG002", LuggageStatus.FOUND);*/
 
         HomeWindow homeWindow = new HomeWindow();
         homeWindow.setVisible(true);   }
